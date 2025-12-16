@@ -16,3 +16,19 @@ This repository contains my **C++ assignment work** along with
 
 ## 📂 Structure
 
+
+---
+
+## 📝 Notes
+
+- Repository includes only **completed work**
+- All programs are written in **C++**
+- LeetCode section contains **beginner-level solved problems**
+
+---
+
+## 👨‍🎓 Student
+
+**Manish Pareek**
+
+
