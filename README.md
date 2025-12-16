@@ -1,7 +1,7 @@
-# C++ Assignments
+# C++ Assignments & LeetCode Practice
 
-This repository contains my **C++ assignment work**.
-Programs are uploaded topic-wise as per completed assignments.
+This repository contains my **C++ assignment work** along with
+**beginner-level LeetCode practice questions**.
 
 ---
 
@@ -10,6 +10,7 @@ Programs are uploaded topic-wise as per completed assignments.
 - Functions (assignment questions)
 - Loops (assignment questions)
 - Basic C++ programs
+- LeetCode (Beginner level – completed)
 
 ---
 
